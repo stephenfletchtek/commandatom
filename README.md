@@ -1,3 +1,2 @@
-# commandatom
-testing command and atom behaviour
-simple python files created in ATOM committed using command line
+# Command atom
+This was me testing that I could use terminal commands to push Atom content onto Github
